@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rafbierzanek@gmail.com**
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/rafa%C5%82-bierzanek-3706a316/)
-- 👉 Check out my [Portfolio](https://github.com/RafalBie/portfolio)
+- 👉 Check out my [Portfolio](https://github.com/RafalBie/portfolio_git)
 - 🌱 I’m currently learning ...
 
 <p align="left">
